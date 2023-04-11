@@ -1,0 +1,27 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "script",
+			"scriptType": "python",
+			"path": "",
+			"fileName": "PhysicExercise.py",
+			"scriptFile": true,
+			"script": "py",
+			"target": "py",
+			"uri": {
+				"$mid": 1,
+				"fsPath": "c:\\Users\\julit\\source\\repos\\Desktop\\PhysicExercise\\PhysicExercise.py",
+				"_sep": 1,
+				"external": "file:///c%3A/Users/julit/source/repos/Desktop/PhysicExercise/PhysicExercise.py",
+				"path": "/c:/Users/julit/source/repos/Desktop/PhysicExercise/PhysicExercise.py",
+				"scheme": "file"
+			},
+			"takesArgs": false,
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"label": "python: PhysicExercise.py"
+		}
+	]
+}

@@ -7,6 +7,8 @@ Para crear la base del env de anaconda correr:
 Para crear el env correr:
 `conda env create -f <environment-name>.yml`
 
+[link](https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt)
+
 Referencia de temas:
 
 - [Proceso de admisión](http://posgrado.fisica.unam.mx/Proceso_de_Admision#:~:text=El%20examen%20de%20admisi%C3%B3n%20a%20los%20programas%20de,un%20examen%20oral%20frente%20al%20comit%C3%A9%20de%20admisi%C3%B3n.)
